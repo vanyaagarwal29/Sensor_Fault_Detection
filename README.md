@@ -1,4 +1,4 @@
-![alt text](https://ineuron.ai/images/ineuron-logo.png)
+
 # Sensor-Fault-Detection
 
 ### Problem Statement
@@ -28,7 +28,7 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 2. AWS EC2
 3. AWS ECR
 4. Git Actions
-5. Terraform
+
 
 ## How to run?
 
